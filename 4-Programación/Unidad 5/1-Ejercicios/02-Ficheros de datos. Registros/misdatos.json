@@ -1,0 +1,20 @@
+{
+  "nombre": "Lucas Andrés Griego",
+  "marca": "STURMPROJEKT",
+  "nacimiento": "1995-10-06",
+  "ciudad": "Valencia",
+  "pais": "España",
+  "profesion": "Desarrollador informatico",
+  "especialidad": "Programación e Inteligencia Artificial",
+  "experiencia_desde": 2025,
+  "tecnologias": [
+    "Python",
+    "PHP",
+    "JavaScript",
+    "C++",
+    "SQL",
+    "Linux",
+    "IA"
+  ],
+  "web": "https://sturmprojekt.es"
+}

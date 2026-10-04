@@ -1,0 +1,16 @@
+print("-"*42)
+print("Programa gestor de proyectos v0.1")
+print("por Lucas Andrés Griego")
+print("¡Bienvenido!")
+print("-"*42)
+
+print("-"*42)
+while True:
+    print("Tienes las siguientes opciones:")
+    print("1- Crear proyecto")
+    print("2- Listar proyectos")
+    print("3- Actualizar/editar proyecto")
+    print("4- Eliminar proyecto")
+    print("-"*42)
+    opcion = input("Selecciona y escribe la opción deseada: ")
+    print("-"*42)

@@ -1,6 +1,12 @@
-print("-"*30)
-print("SuperAgenda v0.2 por Lucas Andrés Griego")
-print("-"*30)
+'''
+    Implementacion de lectura y escritura.
+'''
+
+print("-"*45)                                          # Detalle estetico.
+print("Programa gestor de proyectos v0.2")             # Cabecera de presentación.
+print("Desarrollado por nurLukas de Sturmprojekt")     # Cabecera de presentación.
+print("-"*45) 
+
 while True:
   print("-"*30)
   print("Selecciona una opcion")

@@ -1,0 +1,15 @@
+import tkinter as tk
+
+raiz = tk.Tk()
+
+# Agregar texto a la ventana
+etiqueta = tk.Label(raiz, text="¡Hola mundo!", font=("Arial", 24)) # Aumenta el tamaño del texto
+etiqueta.pack()
+
+raiz.mainloop() # no te salgas del bucle
+
+
+'''
+    "Arial": tipo de letra.
+    24: tamaño de la letra.
+'''

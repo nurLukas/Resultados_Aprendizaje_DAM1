@@ -1,0 +1,2 @@
+archivo = open('archivo.txt','w')
+archivo.close  #Cuando abres un archivo, Python utiliza recursos del sistema para trabajar con él. Cuando terminas, debes cerrarlo para liberar esos recursos y asegurar que se completen las escrituras pendientes.

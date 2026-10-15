@@ -1,0 +1,14 @@
+/* Estilos generales */
+
+body {
+    background: skyblue;
+}
+
+header, main, footer {
+    background: cornflowerblue;
+    width: 800px;
+}
+
+img {
+    width: 50%;
+}

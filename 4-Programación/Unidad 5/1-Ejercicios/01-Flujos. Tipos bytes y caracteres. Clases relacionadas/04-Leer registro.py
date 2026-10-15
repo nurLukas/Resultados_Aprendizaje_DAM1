@@ -8,7 +8,7 @@ print("Desarrollado por nurLukas de Sturmprojekt")     # Cabecera de presentaci√
 print("-"*45)                                          # Detalle estetico.
 
 
-archivo = open("registro_proyectos.txt",'r')
+archivo = open("registro_proyectos.txt",'r')           # Apertura del archivo, en modo lectura
 lineas = archivo.readlines()                           # crea una lista parecida a: ["Ruffoo\n", "zandtvoort\n", "Corcobo\n"].
 for linea in lineas:                                   # Para cada elemento que haya dentro de lineas, gu√°rdalo temporalmente en la variable linea.
     print(linea)                                       # imprime cada nombre.

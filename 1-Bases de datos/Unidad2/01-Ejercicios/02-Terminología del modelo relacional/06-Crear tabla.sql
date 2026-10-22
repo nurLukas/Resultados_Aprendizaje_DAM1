@@ -1,0 +1,10 @@
+SHOW TABLES;
+
+CREATE TABLE clientes(
+	nombre VARCHAR(100),
+	apellidos VARCHAR(100),
+	email VARCHAR(100),
+	proyecto VARCHAR(100)
+);
+
+SHOW TABLES;

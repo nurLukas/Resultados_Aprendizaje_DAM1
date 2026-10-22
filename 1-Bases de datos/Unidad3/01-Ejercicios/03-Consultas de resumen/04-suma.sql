@@ -1,0 +1,1 @@
+SELECT SUM(precio_acordado) FROM pedidos;

@@ -1,0 +1,5 @@
+Esto es un archivo de formato t.xt
+Lucas Ezequiel
+Stefano
+Clara
+Ignacio
